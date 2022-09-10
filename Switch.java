@@ -40,6 +40,11 @@ public class Switch {
 		case 7:
 			System.out.println("saturday");
 			break;
+				
+		case 8:
+			System.out.println("saturday");
+			break;		
+				
 		default:
 	           System.out.println("8 th day");
 			break;
